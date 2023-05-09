@@ -15,7 +15,7 @@
     "main": "lib/index.js",
     "dependencies": {
         "eventemitter3": "4.0.4",
-        "web3-core-helpers": "1.5.1"
+        "web3-core-helpers": "1.9.0"
     },
     "publishConfig": {
         "access": "public"
