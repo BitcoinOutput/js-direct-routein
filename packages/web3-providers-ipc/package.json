@@ -21,7 +21,7 @@
         "access": "public"
     },
     "devDependencies": {
-        "@types/node": "^12.12.6",
+        "@types/node": "^12.20.55",
         "dtslint": "^3.4.1",
         "typescript": "^3.9.5"
     }
