@@ -24,7 +24,7 @@
         "web3-core-promievent": "1.5.1",
         "web3-eth-abi": "1.5.1",
         "web3-eth-contract": "1.5.1",
-        "web3-utils": "1.5.1"
+        "web3-utils": "1.10.1"
     },
     "devDependencies": {
         "dtslint": "^3.4.1",
