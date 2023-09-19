@@ -19,7 +19,7 @@
     "dependencies": {
         "@node-real/web3-core-method": "latest",
         "web3-core": "1.5.1",
-        "web3-utils": "1.5.1"
+        "web3-utils": "1.10.2"
     },
     "devDependencies": {
         "dtslint": "^3.4.1",
