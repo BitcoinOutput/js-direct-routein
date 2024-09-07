@@ -17,20 +17,20 @@
     },
     "main": "lib/index.js",
     "dependencies": {
-        "@ethereumjs/common": "^2.3.0",
-        "@ethereumjs/tx": "^3.2.1",
-        "@node-real/web3-core-method": "latest",
+        "@ethereumjs/common": "^2.6.5",
+        "@ethereumjs/tx": "^3.5.2",
+        "@node-real/web3-core-method": "1.0.7",
         "crypto-browserify": "3.12.0",
         "eth-lib": "0.2.8",
-        "ethereumjs-util": "^7.0.10",
+        "ethereumjs-util": "^7.1.5",
         "scrypt-js": "^3.0.1",
-        "uuid": "3.3.2",
-        "web3-core": "1.5.1",
-        "web3-core-helpers": "1.5.1",
-        "web3-utils": "1.5.1"
+        "uuid": "3.4.0",
+        "web3-core": "1.10.4",
+        "web3-core-helpers": "1.10.4",
+        "web3-utils": "1.10.4"
     },
     "devDependencies": {
         "dtslint": "^3.4.1",
-        "typescript": "^3.9.5"
+        "typescript": "^3.9.10"
     }
 }
