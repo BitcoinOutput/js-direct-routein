@@ -17,12 +17,12 @@
   "types": "types/index.d.ts",
   "main": "lib/index.js",
   "dependencies": {
-    "eventemitter3": "4.0.4",
-    "web3-core-helpers": "1.5.1",
-    "websocket": "^1.0.32"
+    "eventemitter3": "4.0.7",
+    "web3-core-helpers": "1.10.4",
+    "websocket": "^1.0.35"
   },
   "devDependencies": {
     "dtslint": "^3.4.1",
-    "typescript": "^3.9.5"
+    "typescript": "^3.9.10"
   }
 }
