@@ -14,18 +14,18 @@
     },
     "main": "lib/index.js",
     "dependencies": {
-        "@ethereumjs/common": "^2.4.0",
-        "@ethersproject/transactions": "^5.0.0-beta.135",
-        "web3-core-helpers": "1.5.1",
-        "web3-core-promievent": "1.5.1",
-        "web3-core-subscriptions": "1.5.1",
-        "web3-utils": "1.5.1"
+        "@ethereumjs/common": "^2.6.5",
+        "@ethersproject/transactions": "^5.7.0",
+        "web3-core-helpers": "1.10.4",
+        "web3-core-promievent": "1.10.4",
+        "web3-core-subscriptions": "1.10.4",
+        "web3-utils": "1.10.4"
     },
     "publishConfig": {
         "access": "public"
     },
     "devDependencies": {
         "dtslint": "^3.4.1",
-        "typescript": "^3.9.5"
+        "typescript": "^3.9.10"
     }
 }
