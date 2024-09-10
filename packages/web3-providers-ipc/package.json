@@ -15,14 +15,14 @@
     "main": "lib/index.js",
     "dependencies": {
         "oboe": "2.1.5",
-        "web3-core-helpers": "1.5.1"
+        "web3-core-helpers": "1.10.4"
     },
     "publishConfig": {
         "access": "public"
     },
     "devDependencies": {
-        "@types/node": "^12.12.6",
+        "@types/node": "^12.20.55",
         "dtslint": "^3.4.1",
-        "typescript": "^3.9.5"
+        "typescript": "^3.9.10"
     }
 }
