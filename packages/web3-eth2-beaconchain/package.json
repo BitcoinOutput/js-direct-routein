@@ -19,21 +19,21 @@
     },
     "main": "lib/index.js",
     "dependencies": {
-        "web3-eth2-core": "1.5.1"
+        "web3-eth2-core": "1.10.4"
     },
     "devDependencies": {
-        "@babel/cli": "^7.12.10",
-        "@babel/core": "^7.12.10",
-        "@babel/plugin-proposal-class-properties": "^7.12.1",
-        "@babel/plugin-transform-runtime": "^7.12.10",
-        "@babel/preset-env": "^7.12.11",
-        "@babel/preset-typescript": "^7.12.7",
-        "@babel/runtime": "^7.12.5",
-        "@chainsafe/lodestar-types": "^0.13.0",
+        "@babel/cli": "^7.25.6",
+        "@babel/core": "^7.25.2",
+        "@babel/plugin-proposal-class-properties": "^7.18.6",
+        "@babel/plugin-transform-runtime": "^7.25.4",
+        "@babel/preset-env": "^7.25.4",
+        "@babel/preset-typescript": "^7.24.7",
+        "@babel/runtime": "^7.25.6",
+        "@chainsafe/lodestar-types": "^0.39.0",
         "@types/jest": "^26.0.14",
-        "@types/node": "^14.11.2",
+        "@types/node": "^14.18.63",
         "babel-jest": "^26.6.3",
         "jest": "^26.4.2",
-        "typescript": "^4.0.3"
+        "typescript": "^4.9.5"
     }
 }
